@@ -1,0 +1,121 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 12, 2020, 10:36:51 PM
+    Author     : NEW
+*/
+body{
+ width: 100%;
+ height: 100%;
+ margin: 0;
+}
+a{
+ text-decoration: none;
+ background-color: transparent;
+ color:#808080;
+}
+.navbar-inverse{
+    border-radius: block;
+}
+.container-fluid{
+   width: 90%;
+}
+.navbar-brand{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-nav{
+    font-size: 16px;
+    
+}
+.navbar{
+    margin-bottom:0px;
+    border-radius:0px;
+}
+#banner-image{
+ padding-bottom: 280px;
+ margin-bottom: 20px;
+ text-align: center;
+ color: #f8f8f8;
+ background: url(images/bg.jpg) no-repeat center;
+ background-size: cover; 
+ width:100%;
+ margin-bottom: 0px;
+}
+p{
+ font-size: 14px;
+}
+#inner-banner-image{
+ padding-top: 12%;
+ width:80%;
+ margin:auto;
+}
+#banner-content{
+    
+ padding-top: 6%;
+ padding-bottom: 8%;
+ overflow:hidden;
+ margin-left: 20%; 
+ background-color: rgba(0, 0, 0, 0.7);
+ max-width: 60%;
+ font-family: 'Poppins', sans-serif;
+ 
+}
+#banner-content p{
+ margin-top: 0px;
+}
+#banner-content h1{
+ margin-bottom:0px;
+}
+footer{
+    
+    background-color: #000;
+    color: #808080;
+    font-size: 16px;
+    text-align: center;
+    padding:15px 0px 15px 0px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.panel-heading{
+    text-align: left;
+}
+.panel-body p{
+    text-align: left;
+    color: #808080;
+}
+.jumbotron{
+    width: 90%;
+    margin-top: 6%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    border-radius: 6px;
+    font-family: 'Poppins', sans-serif;
+}
+.jumbotron p{
+    font-size: 19px;
+}
+hr{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.table-striped{
+    margin-top: 15%;
+    font-size: 16px;
+    
+   
+}
+.table-striped th{
+    text-align: center;
+}
+.table-striped td{
+    color: #808080;
+    text-align:center; 
+        
+}
+
